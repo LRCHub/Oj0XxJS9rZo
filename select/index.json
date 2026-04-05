@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Manga Sick",
+  "base_artist": "Number Girl",
+  "createdAt": "2026-04-05T13:45:55.318760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MANGA SICK",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/01_MANGA_SICK_Number_Girl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Manga Sick (2014 Remaster)",
+      "artist": "Number Girl",
+      "has_synced": false,
+      "path": "select/02_Manga_Sick_(2014_Remaster)_Number_Girl.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MANGA SICK - 2014 Remaster",
+      "artist": "Number Girl",
+      "has_synced": false,
+      "path": "select/03_MANGA_SICK_-_2014_Remaster_Number_Girl.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Manga Sick (Num-Heavymetallic Live 2002)",
+      "artist": "Number Girl",
+      "has_synced": false,
+      "path": "select/04_Manga_Sick_(Num-Heavymetallic_Live_2002)_Number_Girl.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MANGA SICK",
+      "artist": "NUMBER GIRL",
+      "has_synced": false,
+      "path": "select/pl_01_MANGA_SICK_NUMBER_GIRL.txt"
+    }
+  ]
+}
